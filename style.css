@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Inline&family=Bungee+Shade&family=Cabin+Sketch:wght@700&family=Cinzel+Decorative:wght@700&family=Creepster&family=Gloria+Hallelujah&family=Open+Sans:ital,wght@1,300&family=Poppins:wght@500&family=Rock+3D&family=Rubik+Beastly&family=Rye&family=Shizuru&family=Twinkle+Star&display=swap');
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: #DA4453;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #89216B, #DA4453);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #89216B, #DA4453); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+ h1{
+    position:absolute;
+    top: 10px;
+    
+    text-align: center; 
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 5rem;
+    font-weight: bolder;
+    color: #fff;
+    white-space: nowrap;
+    
+    
+     
+     
+    
+ }
+.quiz-container {
+    background-color:#fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 5px rgba(0,0,0,0.1);
+    width: 600px;
+    max-width: 100%;
+    font-weight: bold;
+    overflow: hidden;
+    flex-wrap:wrap;
+    white-space: nowrap;
+     
+}
+h2{
+    margin: 0;
+}
+
+ul li{
+    margin:1rem 0;
+     
+    font-size: 1.1rem;
+}
+ul li label{
+    cursor: pointer;
+}
+
+.quiz-header{
+    padding: 4rem;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+button{
+    background-color: rgba(63, 5, 117, 0.829);
+    color:white;
+    display:block;
+    font-family: inherit;
+    font-size: 1.1rem;
+    width: 100%;
+    padding: 1.3rem;
+    cursor: pointer;
+    border-radius: 10px;
+}
+button:hover{
+    background-color:black;
+}
+
