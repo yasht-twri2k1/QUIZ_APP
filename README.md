@@ -7,8 +7,8 @@
  .These functions can be used only once by a user. 
  
  #Screenshot
- 
- ![Quiz App - Google Chrome 19-12-2021 18_54_32](https://user-images.githubusercontent.com/84243553/146676668-d24add6f-419d-44d5-a516-c429c15a6158.png) 
+   ![Quiz App - Google Chrome 19-12-2021 18_54_32](https://user-images.githubusercontent.com/84243553/146676890-eb31242e-bb8d-415b-961f-09d41ecdf21c.png)
+
  
  
  
